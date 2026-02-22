@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "primitive_db"
-version = "0.1.0"
+version = "0.1.1"
 description = "Простая база данных на Python с поддержкой CRUD-операций, декораторов и кэширования"
 authors = ["Boris Amelyakin <superboris2001@yandex.ru>"]
 readme = "README.md"
